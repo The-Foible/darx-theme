@@ -4,6 +4,10 @@
     "description": "Modified Dark+ With Different Syntax Highlighting",
     "publisher": "Foible",
     "version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/The-Foible/darx-theme.git"
+    },
     "engines": {
         "vscode": "^1.62.0"
     },
