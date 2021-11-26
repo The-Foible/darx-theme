@@ -23,10 +23,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="45.254834"
-     inkscape:cx="13.992694"
-     inkscape:cy="7.9484459"
+     inkscape:cx="13.998505"
+     inkscape:cy="7.9549513"
      inkscape:window-width="2560"
      inkscape:window-height="1346"
      inkscape:window-x="-11"
@@ -89,13 +89,24 @@
        y2="2.2026503"
        gradientUnits="userSpaceOnUse"
        spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36563"
+       id="linearGradient11355"
+       gradientUnits="userSpaceOnUse"
+       x1="1.1297996"
+       y1="12.195307"
+       x2="14.257156"
+       y2="2.2026503"
+       spreadMethod="pad" />
   </defs>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:url(#linearGradient36565);stroke:none;fill-opacity:1;fill-rule:nonzero"
+       style="fill:url(#linearGradient36565);fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3259"
        width="16"
        height="16"
@@ -104,18 +115,46 @@
        inkscape:export-filename="C:\Users\Xander\OneDrive - The Ohio State University\Coding\VS Code\Themes\darx-theme\darx.png"
        inkscape:export-xdpi="768"
        inkscape:export-ydpi="768" />
-    <a
-       id="a31380"
+  </g>
+  <g
+     inkscape:label="Foreground"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.86666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11.365004,4.6235622 2.3611801,13.627386"
+       id="path875"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.86666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.3611801,2.3726061 11.365004,11.37643"
+       id="path873"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path31190"
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.86666667;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.3611801,2.3726061 c 0,0 1.8825005,2.8136951 1.8825005,5.6273901 0,2.8136948 -1.8825005,5.6273898 -1.8825005,5.6273898 0,0 11.2950039,-1.627386 11.2950039,-5.6273898 C 13.656184,4 2.3611801,2.3726061 2.3611801,2.3726061 Z"
+       inkscape:export-filename="C:\Users\Xander\OneDrive - The Ohio State University\Coding\VS Code\Themes\darx-theme\icon.png"
+       inkscape:export-xdpi="768"
+       inkscape:export-ydpi="768"
+       sodipodi:nodetypes="cscsc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11353"
+     inkscape:label="Background copy"
+     sodipodi:insensitive="true"
+     style="opacity:0.07594937">
+    <rect
+       style="fill:url(#linearGradient11355);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect11351"
+       width="16"
+       height="16"
+       x="0"
+       y="0"
        inkscape:export-filename="C:\Users\Xander\OneDrive - The Ohio State University\Coding\VS Code\Themes\darx-theme\darx.png"
        inkscape:export-xdpi="768"
-       inkscape:export-ydpi="768">
-      <path
-         id="path31190"
-         style="fill:none;stroke:#ffffff;stroke-width:2.17053;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.9261745"
-         d="M 3,3 C 3,3 4.6726231,5.5 4.6726231,8 4.6726231,10.5 3,13 3,13 3,13 13.035739,10.5 13.035739,8 13.035739,5.5 3,3 3,3 Z"
-         inkscape:export-filename="C:\Users\Xander\OneDrive - The Ohio State University\Coding\VS Code\Themes\darx-theme\icon.png"
-         inkscape:export-xdpi="768"
-         inkscape:export-ydpi="768" />
-    </a>
+       inkscape:export-ydpi="768" />
   </g>
 </svg>
