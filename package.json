@@ -1,0 +1,22 @@
+{
+    "name": "darx-theme",
+    "displayName": "Darx Theme",
+    "description": "Modified Dark+ With Different Syntax Highlighting",
+    "publisher": "Foible",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darx",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darx.json"
+            }
+        ]
+    }
+}
